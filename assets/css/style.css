@@ -1,0 +1,70 @@
+#container {
+	
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+}
+
+#top {
+	
+	padding: 20px;
+	margin: 20px;
+}
+
+h1 {
+	font-family: 'Georgia', serif;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: 'Georgia', serif;
+	font-size: 25px;
+}
+
+p {
+	font-family: 'Georgia', serif;
+	font-size: 15px;
+}
+
+
+#game {
+	background-color: white;
+	padding: 20px;
+	margin: 20px;
+}
+
+#start {
+	background-color: rgba(53, 64, 86, 0.63);
+	padding: 40px;
+
+}
+
+#timer {
+	background-color: black;
+
+}
+
+#question {
+		background-color: rgba(53, 64, 86, 0.63);
+
+}
+
+#choices {
+		background-color: black;
+
+}
+
+#results {
+		background-color: rgba(53, 64, 86, 0.63);
+
+}
+
+#end {
+	background-color: white;
+	padding: 20px;
+	margin: 20px;
+}
+
+.highlighted {
+	opacity: .5;
+}
